@@ -18,7 +18,7 @@ namespace B10956046
                 {
                     Console.WriteLine("Not Weird");
                 }
-                if(num >=6 && num > 20)
+                if(num >=6 && num >= 20)
                 {
                     Console.WriteLine("Weird");
                 }
